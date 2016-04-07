@@ -7,9 +7,10 @@
 //
 
 #include <iostream>
+#include <tesseract/baseapi.h>
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << "break the window";
     return 0;
 }
